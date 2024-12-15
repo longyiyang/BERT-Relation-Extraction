@@ -1,0 +1,8 @@
+EVE
+CAR
+PEO
+LOC
+JUD
+MES
+ACT
+OBJ
